@@ -1,6 +1,6 @@
-# Lead_gen_Toolkit
+# Sample_Gen_Toolkit
 
-A Python-based toolkit, so I can practice prospecting and analyze customer data, identify opportunities, and prepare for client engagements, all data used is fictional. 
+A Python-based toolkit, so I can practice prospecting and analyze customer data, identify opportunities, and prepare for client engagements.
 
 ## contains:
 
@@ -9,5 +9,5 @@ A Python-based toolkit, so I can practice prospecting and analyze customer data,
 - Lead filter
 - Reseatch generator: Quick company research reports for sales calls
 
-In collab with various AI's.
-
+In collab with various AI's. 
+All data is fictional.

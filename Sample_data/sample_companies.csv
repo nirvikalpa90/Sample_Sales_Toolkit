@@ -1,0 +1,11 @@
+company,contact_name,contact_email,industry,size,tech_stack,pain_points,source
+CloudTech Innovations,Alex Johnson,contact@cloudtech.example.com,SaaS - DevOps,50-100,"Python, React, AWS, Docker", "enterprise scaling challenges, competing with legacy solutions, customer adoption",Crunchbase
+DataFlow Systems,Jamie Smith,info@dataflow.example.com,Data Analytics,25-50,"Python, PostgreSQL, AWS, Machine Learning","data accuracy issues, integration complexity, real-time processing",Crunchbase
+SecureVault Inc,Sam Davis,sales@securevault.example.com,Cybersecurity,100-200,"React, Node.js, AWS, Python","security compliance requirements, competing with established players, enterprise sales cycles",Crunchbase
+MediTech Solutions,Dr. Maria Garcia,hello@meditech.example.com,Healthcare SaaS,50-100,"Python, React, Azure, SQL Server","healthcare compliance (HIPAA), data privacy concerns, integration with legacy systems",Crunchbase
+GreenEnergy Analytics,Taylor Brown,info@greenenergy.example.com,CleanTech,25-50,"Python, React, AWS, IoT","data accuracy for emissions, regulatory compliance, scaling sensor networks",Crunchbase
+RetailAI,Chris Wilson,sales@retailai.example.com,Retail Tech,100-200,"Python, React, AWS, Machine Learning","competing with larger retail platforms, inventory accuracy, omnichannel integration",Crunchbase
+FinTech Plus,Jordan Lee,contact@fintechplus.example.com,Financial SaaS,50-100,"React, Node.js, AWS, MongoDB","financial compliance (SEC), data security,competing with traditional banks",Crunchbase
+EduPlatform Inc,Casey Martinez,hello@eduplatform.example.com,EdTech,25-50,"Python, React, AWS, PostgreSQL","user adoption challenges, content quality maintenance, mobile app performance",Crunchbase
+LogiChain Solutions,Riley Clark,sales@logichain.example.com,Supply Chain,50-100,"Python, React, Azure, SQL Server","supply chain complexity, data accuracy, integration with partner systems",Crunchbase
+HRTech Pro,Alex Kim,info@hrtech.example.com,HR Technology,100-200,"React, Node.js, AWS, MongoDB","data privacy compliance, user adoption in enterprises, competing with Workday","Crunchbase
